@@ -1,0 +1,7 @@
+# Concepts
+
+##.map()
+
+##.filter()
+
+##Callbacks
