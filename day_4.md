@@ -69,4 +69,27 @@ return this.value;
 //obj = new start();
 var result = new start().add().end(); // will return 1
 var result2 = new start().add().add().add().end(); // will return 3
+```
+Two:
+```
+var count = 0;
+
+var start = function(num){
+if (isNaN(num)==false){
+count = num;
+}
+return obj2;
+};
+
+var obj2 = {
+end:function(){
+return count;
+},
+add:function(){
+count += 1;
+return obj2;
+}
+};
+```
+
 var result3 = new start(5).add().add().end(); // returns```
