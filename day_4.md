@@ -24,6 +24,26 @@
 - everyone working on the project can access the variables/methods/objects you were using = not secure
 
 ```
+function start ( startval ){
+that = {}
+that.value = startval || 0;
+
+that.add = function() {
+    that.value++;
+    return that;
+}
+
+that.end = function() {
+    return that.value;
+}
+return that;
+};
+
+```
+
+#Solution
+
+```
 var start = function( startval ){
 
 this.value = ( typeof( startval ) === 'number' )? startval : 0;
