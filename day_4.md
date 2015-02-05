@@ -1,5 +1,7 @@
 # Day 4 - chaining methods
 
+- cleaner, quicker way to write things. smoother! no semi colons!
+
 # Prototypes
 
 # Objects
