@@ -22,6 +22,7 @@
 - this points to a global variable, can accidentally edit it!
 - does everything inherit x? if you do it insecurely
 - everyone working on the project can access the variables/methods/objects you were using = not secure
+- **script injection**
 
 ```
 function start ( startval ){
