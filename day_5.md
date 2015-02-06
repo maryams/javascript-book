@@ -26,6 +26,8 @@ console.log(t0.createdTime); // --> 11 February 2012 13:30
 // cloned version that I will be able to modify without affecting t0 itself.
 // REMEMBER: GOOGLE KNOWS MORE THAN ANYONE UPSTAIRS!
 ```
+- for (var prop in obj) for in loop
+
 #Prototypes
 - inheritance
 #Clones
