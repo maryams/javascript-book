@@ -13,9 +13,9 @@
    * [Day 4](day_4.md)
    * [Day 5](day_5.md)
 * [One - .map() and .filter()](one_-_map_and_filter.md)
+   * Week 3
    * [Concepts](concepts1.md)
 * [Two - camelCase](two_-_camelcase.md)
    * [Concepts](concepts.md)
 * Glossary
-* Week 3
 
