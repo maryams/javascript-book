@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Week 1](week1/week1.md)
    * [Day 2](week1/day_2.md)
-   * [Day 2](week1/day_3.md)
+   * [Day 3](week1/day_3.md)
    * [Day 3](week1/day_4.md)
 * [Day 4](week1/day_5.md)
 * [Week 2](week2/week2.md)
