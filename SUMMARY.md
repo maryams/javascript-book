@@ -6,7 +6,7 @@
    * [Day 2](week1/day_3.md)
    * [Day 3](week1/day_4.md)
    * [Day 4](week1/day_5.md)
-* [Week 2](week2/READMe.md)
+* [Week 2](week2/week2.md)
    * [Day 1](week2/day_6.md)
    * [Day 2](week2/day_7.md)
    * [Day 3](week2/day_8.md)
