@@ -12,8 +12,14 @@
    * [Day 3](week2/day_8.md)
    * [Day 4](day_4.md)
    * [Day 5](day_5.md)
+* [Week 3](week3/week3.md)
+* [Week 4](week3/week3.md)
+* [Week 5](week3/week3.md)
+* [Week 6](week3/week3.md)
+* [Week 7](week3/week3.md)
+* [Week 8](week3/week3.md)
 * [One - .map() and .filter()](one_-_map_and_filter.md)
-   * Week 3
+
    * [Concepts](concepts1.md)
 * [Two - camelCase](two_-_camelcase.md)
    * [Concepts](concepts.md)
