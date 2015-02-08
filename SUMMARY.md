@@ -17,4 +17,5 @@
 * [Two - camelCase](two_-_camelcase.md)
    * [Concepts](concepts.md)
 * Glossary
+* Week 3
 
