@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Week 1](week1/README.md)
+* [Week 1](week1/week1.md)
    * [Day 1](week1/day_2.md)
    * [Day 2](week1/day_3.md)
    * [Day 3](week1/day_4.md)
