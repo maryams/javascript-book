@@ -19,7 +19,6 @@
 * [Week 7](week7/week7.md)
 * [Week 8](week8/week8.md)
 * [One - .map() and .filter()](one_-_map_and_filter.md)
-
    * [Concepts](concepts1.md)
 * [Two - camelCase](two_-_camelcase.md)
    * [Concepts](concepts.md)
