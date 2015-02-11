@@ -6,4 +6,10 @@ A function that calls another function. "Once something has happened, come back 
 
 ##.filter()
 
-##
+## .split()
+
+##.slice()
+
+##.join()
+
+#.charAt()
