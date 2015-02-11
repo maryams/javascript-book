@@ -1,6 +1,6 @@
 # Javascript Book
 
-A guide to the wonderful world of Javascript, via coding problems and an eventually extensive glossary.
+A guide to the wonderful world of Javascript, via coding problems and an eventually extensive glossary. To access the glossary, press the annoyingly tiny icon that has 'AZ' and a downwards arrow.
 
 ------
 
