@@ -60,5 +60,6 @@ test
 test
 
 ##.charAt()
+test
 
 test
