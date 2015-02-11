@@ -4,6 +4,8 @@ A guide to the wonderful world of Javascript, via coding problems and an eventua
 
 ------
 
+![](http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png)
+
 
 
 
