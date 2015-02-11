@@ -28,3 +28,10 @@ return will;
 }
 var x = asim();
 ```
+
+- functions are returnable values? 
+- not all languages can return functions
+- all functions return something, if you don't specify what, you return undefined
+- **there is one return value per function scope**
+- pass values from a sub scope to the scope above, you use a return
+- `(!executed)` *read* false as true`
