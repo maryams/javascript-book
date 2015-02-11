@@ -21,8 +21,10 @@ function asim(){
 function will(){
 return 7;
 }
-return will(); //this will return the execution of the function
-return will; //this will return the function itself
+//this will return the execution of the function
+return will(); 
+//this will return the function itself
+return will; 
 }
 var x = asim();
 ```
