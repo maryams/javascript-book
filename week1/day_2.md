@@ -1,6 +1,6 @@
 # Day 2
 
-```javascript
+```
 var data = {
     basket: "1",
     id: 1,
