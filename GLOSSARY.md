@@ -10,7 +10,6 @@ TLDR, "Once something has happened, come back here and do this!"
 
 ----
 
-
 function that calls a function, and allows you to define functionality of later on. not saying what it has to do. "i don't want to tell you how to use these properties, but I'm telling you that you should use them".
 
 Javascript doesn't know anything is a function when an object is created? it's mapping out what to do in the future, not saying what to do right now. 
@@ -33,10 +32,12 @@ var http = {
 The end function is dirnking the cup of tea, but you may have many other functions e.g. putting the teabag in a cup, getting out the box of tea. You may have to sit down and write out stuff first. Don't use unnamed function callbacks. 
 
 ##Blocking
-test
+Waiting for each previous step to finish before moving onto the next one.
 
 ##Non-blocking
-test
+Does things in parallel, does not wait for the 
+
+Node is awesome because it does this
 
 ##Synchronous
 test
