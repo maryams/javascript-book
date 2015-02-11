@@ -8,6 +8,8 @@ Imagine you're making a cup of tea. The asynchronous function that will take the
 
 TLDR, "Once something has happened, come back here and do this!"
 
+----
+
 function that calls a function, and allows you to define functionality of later on. not saying what it has to do. "i don't want to tell you how to use these properties, but I'm telling you that you should use them".
 
 Javascript doesn't know anything is a function when an object is created? it's mapping out what to do in the future, not saying what to do right now. 
