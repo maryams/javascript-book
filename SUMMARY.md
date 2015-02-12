@@ -15,7 +15,7 @@
 * [Week 3](week3/week3.md)
    * [Callback challenge](day_2.md)
    * [Chaining methods](day_4.md)
-   * Add a module and remove spaces
+   * [Add a module and remove spaces](add_a_module_and_remove_spaces.md)
 * [Week 4](week4/week4.md)
 * [Week 5](week5/week5.md)
 * [Week 6](week6/week6.md)
