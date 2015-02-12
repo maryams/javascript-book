@@ -13,7 +13,6 @@
    * [Day 4](week2/day_4.md)
    * [Day 5](week2/day_5.md)
 * [Week 3](week3/week3.md)
-   * [Day 1](day_1.md)
    * [Callback challenge](day_2.md)
    * [Chaining methods](day_4.md)
 * [Week 4](week4/week4.md)
