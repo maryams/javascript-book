@@ -15,6 +15,7 @@
 * [Week 3](week3/week3.md)
    * [Day 2](day_2.md)
    * [Day 3](day3.md)
+   * Day 4
 * [Week 4](week4/week4.md)
 * [Week 5](week5/week5.md)
 * [Week 6](week6/week6.md)
